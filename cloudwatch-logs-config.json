@@ -1,0 +1,8 @@
+{
+    "logGroupName": "example-log-group",
+    "retentionInDays": 30,
+    "tags": {
+      "Project": "Example"
+    }
+  }
+  

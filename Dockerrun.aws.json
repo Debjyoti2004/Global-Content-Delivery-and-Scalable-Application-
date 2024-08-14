@@ -1,0 +1,12 @@
+{
+    "AWSEBDockerrunVersion": 2,
+    "containerDefinitions": [
+      {
+        "name": "example-app",
+        "image": "mydockerhub/example-app:latest",
+        "memory": 512,
+        "essential": true
+      }
+    ]
+  }
+  

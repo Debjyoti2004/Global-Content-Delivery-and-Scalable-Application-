@@ -1,0 +1,7 @@
+{
+    "CacheClusterId": "example-cache",
+    "Engine": "redis",
+    "CacheNodeType": "cache.t2.micro",
+    "NumCacheNodes": 1
+  }
+  
